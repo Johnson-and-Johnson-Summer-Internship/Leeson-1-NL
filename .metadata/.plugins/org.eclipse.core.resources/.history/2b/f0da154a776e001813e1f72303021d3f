@@ -1,0 +1,16 @@
+
+public class LILI {
+     public static void main(String args[]) {
+	
+	
+	  System.out.println("biiiiiiihhhhhhhhhhhhhhhhhhhhh");
+	  System.out.println("pipi");
+	  System.out.println("booo");
+	  System.out.println("lulu");
+	  System.out.println("Knoledge");
+      
+	  int x = 9;
+			  int y = 7;
+			  
+     }
+}
